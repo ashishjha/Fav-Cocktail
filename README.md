@@ -1,11 +1,9 @@
-#### React Router Fix
+## MY COCKTAIL
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+A react based project to search for your favourite cocktails
 
-#### CRA Fix
+## Project deployed on netlify
 
-```
+### Visit Me https://mycocktail.netlify.app/
 
-"build": "CI= react-scripts build",
-
-```
+### API used from https://www.thecocktaildb.com/ 
